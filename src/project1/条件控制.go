@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 /*func main() {
 	a, b := 1, 10
 	if a > b {
@@ -56,10 +54,8 @@ func main() {
 		fallthrough
 	case num < 0:
 		num += num
-	} fmt.Println("num")
+	}
 }
 func f() int {
 	return 1
 }
-
-
